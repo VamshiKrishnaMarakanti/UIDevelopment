@@ -1,0 +1,30 @@
+Types of tags
+--Paired tags
+<p>,<B><i>
+--single tags/Unpaired Tags/vaoid tags<br><hr><img><source><inpit>
+
+Types of Elements
+--Inline
+--Block Level
+
+Types of attributes
+--User defined
+--Pre defined
+	---Global->span and all tags
+	---Element Specific
+
+Element Specific
+--<BDO> Bidirectional
+--<abbr> abbrivation
+--<acronym> 
+--<img> image tag
+<img src="image location" alt="alternate name">
+Relative--if image is saved in local and used it from local
+absolute--if we are using image from web
+--<audio> audio tag
+<audio controls>
+<source src="" type="">  
+--<video> video tag
+--<iframe>
+--<a> anchor tag
+<a href ="www.google.com">google</a>

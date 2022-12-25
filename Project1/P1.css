@@ -1,0 +1,92 @@
+* {
+ /* border: 20px; */
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    /* border: 3px solid; */
+    border-color: black;
+    height: 50px;
+    background-color: white;
+    width: 100%;
+}
+.logo {
+    /* display: inline; */
+    /* border: 3px solid; */
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    /* margin-top: 10px; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+
+.nav{
+    /* display: inline; */
+    width: 100%;
+    
+    /* border: 3px solid; */
+    margin: auto;
+    text-align: right;
+    
+    
+}
+.navs{
+    /* border: 3px solid black; */
+    margin: auto;
+    text-align: center;
+    padding: 0px 30px;
+    
+}
+
+.banner{
+    /* border: 3px solid; */
+    padding: 1px 0px;
+}
+
+.projects {
+    /* border: 3px solid; */
+    display: flex;
+    width: 100%;
+}
+
+.houses {
+    padding: 9px;
+}
+
+input{
+    display: block;
+    width: 1450px;
+    padding: 10px;
+    margin: 15px;
+}
+
+h3{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+footer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-top: 30px;
+}
